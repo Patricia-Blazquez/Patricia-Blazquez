@@ -12,8 +12,8 @@
 -->
 
 ---
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 ## 🛠️ Tech Stack  
 
 ### 🤖 Machine Learning & AI  
@@ -39,4 +39,4 @@
 
 ## 📬 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/patriciablazquezgarcia)     [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/patricia-blazquez)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/patriciablazquezgarcia) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/patricia-blazquez)  
