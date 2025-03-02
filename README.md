@@ -2,7 +2,7 @@
 
 **Data Analyst & Visualization Expert | Machine Learning Enthusiast | Expanding into Data Scientist & Data Engineer**  
 
-💡 Passionate about turning data into insights and building scalable data solutions.  
+Passionate about turning data into insights and building scalable data solutions.  
 
 ---
 
