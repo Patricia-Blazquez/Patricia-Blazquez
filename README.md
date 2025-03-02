@@ -14,9 +14,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=patricia-blazquez&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patricia-blazquez&theme=radical" width="48%" />
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-blazquez&show_icons=true&count_private=true&theme=radical)
+ 
 </p>
-
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-blazquez&show_icons=true&count_private=true&theme=radical)
 
 
 ---
