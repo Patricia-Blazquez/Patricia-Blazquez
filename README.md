@@ -22,7 +22,7 @@ Passionate about turning data into insights and building scalable data solutions
 ![Python](https://img.shields.io/badge/Python-Programming-blue?style=flat&logo=python)  
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql)  
 ![Dart](https://img.shields.io/badge/Dart-Programming-blue?style=flat&logo=dart)  
-![Java](https://img.shields.io/badge/Python-Programming-blue?style=flat&logo=java)  
+![Java](https://img.shields.io/badge/Java-Programming-blue?style=flat&logo=java)  
 
 ### 📊 Data Analysis & Visualization  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat&logo=pandas)  
