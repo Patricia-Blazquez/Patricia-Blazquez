@@ -1,64 +1,45 @@
-## 👋 Hi, I'm Patricia!
+<h1 align="center">👋 Hi, I'm Patricia!</h1>
+<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | Data Analyst Expert</h3>
 
-<!--
-**Patricia-Blazquez/Patricia-Blazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 🚀 Employee Turnover Analysis  
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?style=flat&logo=tableau)](https://public.tableau.com/views/DashboardRotacinEmpleados/Dashboard1)  
-[![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=flat&logo=python)](https://www.python.org/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)  
-
-🔍 **Employee Turnover Analysis** is a project designed to analyze and predict employee attrition using **data science and machine learning techniques**.  
-✔️ **Identify employees at high risk of leaving**  
-✔️ **Measure financial impact of turnover**  
-✔️ **Support strategic decision-making for retention**  
+<p align="center">
+💡 Passionate about using <strong>data-driven insights</strong> to solve real-world problems.
+</p>
 
 ---
 
-## 📊 **Dashboard & Insights**  
-🔍 **Explore the interactive dashboard here:**  
-📌 **[View the Tableau Dashboard](https://public.tableau.com/views/DashboardRotacinEmpleados/Dashboard1)**  
-
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Tableau+Dashboard)  
+## 🚀 Featured Project: Employee Turnover Analysis  
+📊 **[View Dashboard](https://public.tableau.com/views/DashboardRotacinEmpleados/Dashboard1)**  
+📖 **[Read the Full Report](https://github.com/tu-usuario/employee-turnover-analysis)**  
 
 ---
 
-## 🛠 **Technologies & Tools**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tableau,sqlite,github" alt="Tools"/>
-</div>
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,sql,postgres,tableau,powerbi,github,git" />
+</p>
 
 ---
 
-## 📈 **GitHub Stats & Contributions**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" height="150"/>
-</div>
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" width="48%" />
+</p>
 
 ---
 
-## 🎯 **Next Steps**  
-✔️ Data collection and preprocessing  
-✔️ Exploratory Data Analysis (EDA)  
-✔️ Feature selection and engineering  
-✔️ Model development and evaluation  
-✔️ Deployment of insights through a dashboard  
+## 📬 Let's Connect!  
 
----
-
-## 📬 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=internetexplorer)](https://tu-portafolio.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/tu-usuario)  
+<p align="center">
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/tu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
+  </a>
+  <a href="https://tu-portafolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox" />
+  </a>
+</p>
