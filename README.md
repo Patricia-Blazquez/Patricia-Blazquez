@@ -1,42 +1,43 @@
-<h1 align="center">👋 Hi, I'm Patricia!</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | Data Analyst Expert</h3>
+# 👋 Hi, I'm [Tu Nombre]!  
 
-<p align="center">
-💡 Passionate about using <strong>data-driven insights</strong> to solve real-world problems.
-</p>
+🚀 **Data Analyst & Visualization Expert | Machine Learning Enthusiast | Expanding into Data Scientist & Data Engineer**  
+
+💡 Passionate about turning data into insights and building scalable data solutions.  
 
 ---
 
-## 🚀 Featured Project: Employee Turnover Analysis  
-📊 **[View Dashboard](https://public.tableau.com/views/DashboardRotacinEmpleados/Dashboard1)**  
-📖 **[Read the Full Report](https://github.com/tu-usuario/employee-turnover-analysis)**  
+## 🔥 Featured Projects  
 
+📌 **[Employee Turnover Analysis](https://github.com/patricia-blazquez/Employee-Turnover-ML)** – Predictive modeling and visualization of employee attrition.  
+
+
+🔍 *More projects on my GitHub!*  
+### 📂 Other Projects  
+📌 **[Chatbot with LLM & Image Recognition]** – AI chatbot using Mistral & LLaVA for text, document, and image processing.  
+📌 **[ETL Pipeline & Data Engineering]** – ETL pipeline for data extraction and transformation in PostgreSQL.  
+📌 **[Cloud Infrastructure & AWS Lambda]** – Serverless business logic with AWS DynamoDB, Lambda, and S3.  
 ---
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,sql,postgres,tableau,powerbi,github,git" />
-</p>
+### 📊 Data Analysis & Visualization  
+![Python](https://skillicons.dev/icons?i=python) ![Pandas](https://img.shields.io/badge/Pandas-Data-blue?style=flat&logo=pandas) ![SQL](https://skillicons.dev/icons?i=postgres)  
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?style=flat&logo=tableau) ![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow?style=flat&logo=powerbi)  
 
----
+### 🤖 Machine Learning & AI  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?style=flat&logo=scikitlearn) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch)  
+![Mistral](https://img.shields.io/badge/Mistral-AI-green?style=flat) ![LLaVA](https://img.shields.io/badge/LLaVA-ImageProcessing-purple?style=flat)  
 
-## 📊 GitHub Stats  
+### 🏗️ Data Engineering & Cloud  
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+![ETL](https://img.shields.io/badge/ETL-Pipelines-green?style=flat) ![Docker](https://skillicons.dev/icons?i=docker)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patricia-blazquez&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patricia-blazquez&theme=radical" width="48%" />
-</p>
+### 💻 App Development  
+![Flutter](https://skillicons.dev/icons?i=flutter) ![Python](https://skillicons.dev/icons?i=python)  
 
 ---
 
 ## 📬 Let's Connect!  
 
-<p align="center">
-  <a href="https://linkedin.com/in/patriciablazquezgarcia">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/patricia-blazquez">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/patriciablazquezgarcia)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/patricia-blazquez)  
