@@ -24,8 +24,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patricia-blazquez&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patricia-blazquez&theme=radical" width="48%" />
 </p>
 
 ---
@@ -33,13 +33,10 @@
 ## 📬 Let's Connect!  
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://linkedin.com/in/patriciablazquezgarcia">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/tu-usuario">
+  <a href="https://github.com/patricia-blazquez">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
-  </a>
-  <a href="https://tu-portafolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox" />
   </a>
 </p>
