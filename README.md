@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ### 🤖 Machine Learning & AI  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-Machine%20Learning-blue?style=flat&logo=scikitlearn)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-blue?style=flat&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/PyTorch-Machine%20Learning-red?style=flat&logo=pytorch)  ![Ollama](https://img.shields.io/badge/Ollama-LLM-orange?style=flat) 
