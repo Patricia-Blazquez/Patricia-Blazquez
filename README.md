@@ -10,12 +10,31 @@ Passionate about turning data into insights and building scalable data solutions
 
 📌 **[Employee Turnover Analysis](https://github.com/patricia-blazquez/Employee-Turnover-ML)** – Predictive modeling and visualization of employee attrition.  
 
-
+<!--
  *More projects on my GitHub!*  
+-->
 
 ---
 
 ## 🛠️ Tech Stack  
+
+### 🖥️ Programming Languages  
+![Python](https://skillicons.dev/icons?i=python) ![SQL](https://skillicons.dev/icons?i=postgres) ![Dart](https://skillicons.dev/icons?i=dart)  
+
+### 📊 Data Analysis & Visualization  
+![Pandas](https://img.shields.io/badge/Pandas-Data-blue?style=flat&logo=pandas) ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?style=flat&logo=tableau) ![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow?style=flat&logo=powerbi)  
+
+### 🤖 Machine Learning & AI  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?style=flat&logo=scikitlearn) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch)  
+
+### ☁️ Cloud & Infrastructure  
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker)  
+
+### 🛠️ Tools & Other Technologies  
+![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode)  
+
+************
+
 
 ### 📊 Data Analysis & Visualization  
 ![Python](https://skillicons.dev/icons?i=python) ![Pandas](https://img.shields.io/badge/Pandas-Data-blue?style=flat&logo=pandas) ![SQL](https://skillicons.dev/icons?i=postgres) ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?style=flat&logo=tableau) ![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow?style=flat&logo=powerbi)  
