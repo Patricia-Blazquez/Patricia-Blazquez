@@ -6,18 +6,15 @@
 📌 **[Employee Turnover Analysis](https://github.com/patricia-blazquez/Employee-Turnover-ML)** – Predictive modeling and visualization of employee attrition.  
 
 
-
+<!--
  *More projects on my GitHub!*  
 
  ## 📊 GitHub Stats  
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=patricia-blazquez&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patricia-blazquez&theme=radical" width="48%" />
- 
 </p>
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-blazquez&show_icons=true&count_private=true&theme=radical)
+-->
 
 ---
 
