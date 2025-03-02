@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Patricia!  
 
 ---
-
+&nbsp;
 ## Featured Projects  
 
 📌 **[Employee Turnover Analysis](https://github.com/patricia-blazquez/Employee-Turnover-ML)** – Predictive modeling and visualization of employee attrition.  
